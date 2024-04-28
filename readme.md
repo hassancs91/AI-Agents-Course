@@ -1,6 +1,6 @@
 # Build AI Agents From Scratch with Python
 
-Welcome to the official repository for the course **"Build AI Agents From Scratch with Python"**, a comprehensive guide designed to empower you to create autonomous AI agents using Python and ReAct Prompting. This course is perfect for anyone passionate about AI and eager to learn how to develop intelligent agents from the ground up.
+Welcome to the official repository for the course [**"Build AI Agents From Scratch with Python"**](https://learnwithhasan.com/learn/build-ai-agents/), a comprehensive guide designed to empower you to create autonomous AI agents using Python and ReAct Prompting. This course is perfect for anyone passionate about AI and eager to learn how to develop intelligent agents from the ground up.
 
 ## About This Course
 
