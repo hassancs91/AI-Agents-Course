@@ -23,10 +23,6 @@ By the end of the course, you will have the skills to build AI agents that can i
 - **Hands-On Projects**: Practical projects to apply what you've learned in real-world settings.
 
 
-## Support or Contact
-
-Having trouble with the repository or the course? Check out our troubleshooting guide or contact support for help navigating through more complex issues.
-
 ## Enroll in the Course,  Access All Other Premium Content, and Get Support!
 
 Ready to start building your own AI agents from scratch? [Enroll in the course today](https://learnwithhasan.com/learn/build-ai-agents/) and begin your journey into the exciting world of autonomous AI!
