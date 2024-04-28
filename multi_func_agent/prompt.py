@@ -64,7 +64,7 @@ PAUSE
 
 You will be called again with this:
 
-Action_Response: the full SEO report
+Observation: the full SEO report
 
 You then output:
 
@@ -89,7 +89,7 @@ PAUSE
 
 You will be called again with this:
 
-Action_Response: the content of the article
+Observation: the content of the article
 
 You then output:
 
@@ -164,7 +164,7 @@ PAUSE
 
 You will be called again with this:
 
-Action_Response: the full SEO report
+Observation: the full SEO report
 
 You then output:
 

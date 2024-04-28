@@ -25,8 +25,8 @@ When was Isaac Newton born?"""
 
 
 messages = [
-    {"role": "system", "content": system_prompt_three_examples},
-    {"role": "user", "content": user_query_1}
+    {"role": "system", "content": system_prompt_one_example},
+    {"role": "user", "content": user_query_2}
 ]
 
 turn_count = 1
