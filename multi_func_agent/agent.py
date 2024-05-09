@@ -14,7 +14,7 @@ available_actions = {
 
 
 user_query_1 = """
-what is the response speed of this web page: learnwithhasan.com?"""
+what is the response time of this web page: learnwithhasan.com?"""
 
 user_query_2 = """
 generate a conside bullet point summary of the following article: 
@@ -26,7 +26,7 @@ When was Isaac Newton born?"""
 
 messages = [
     {"role": "system", "content": system_prompt_one_example},
-    {"role": "user", "content": user_query_2}
+    {"role": "user", "content": user_query_1}
 ]
 
 turn_count = 1

@@ -12,7 +12,7 @@ available_actions = {
 
 
 user_query = """
-what is the response speed of this web page: learnwithhasan.com?"""
+how many images without alt tags are there on learnwithhasan.com"""
 
 
 messages = [
@@ -22,6 +22,7 @@ messages = [
 
 turn_count = 1
 max_turns = 5
+
 
 while turn_count < max_turns:
     print (f"Loop: {turn_count}")
