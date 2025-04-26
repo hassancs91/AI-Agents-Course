@@ -3,7 +3,7 @@ from SimplerLLM.language.llm import LLM, LLMProvider
 from SimplerLLM.tools.json_helpers import extract_json_from_text
 
 
-llm_instance = LLM.create(provider=LLMProvider.OPENAI,model_name="gpt-4")
+llm_instance = LLM.create(provider=LLMProvider.OPENAI,model_name="gpt-4o")
 
 
 

@@ -27,7 +27,7 @@ while turn_count < max_turns:
     print("----------------------")
     turn_count += 1
 
-    response = generate_text_with_conversation(messages, model="gpt-4")
+    response = generate_text_with_conversation(messages, model="gpt-4o")
 
     print(response)
 

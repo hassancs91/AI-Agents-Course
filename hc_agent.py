@@ -8,6 +8,6 @@ prompt = f"""
 Should I take an umbrella when going out today in
 California based on the following weather conditions: {current_weather}?"""
 
-response = generate_text_basic(prompt,model="gpt-4")
+response = generate_text_basic(prompt,model="gpt-4o")
 
 print(response)

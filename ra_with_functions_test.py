@@ -14,7 +14,7 @@ available_actions = {
 prompt = """
 Should I take an umbrella when going out today in London?"""
 
-response = generate_text_basic(prompt, model="gpt-4",system_prompt = react_system_prompt)
+response = generate_text_basic(prompt, model="gpt-4o",system_prompt = react_system_prompt)
 
 #print(f"Response from the model: {response}")
 #we want to instruct the model to call the action or the function

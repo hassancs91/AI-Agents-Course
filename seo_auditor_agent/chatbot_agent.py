@@ -5,7 +5,7 @@ from prompt import react_system_prompt
 import time
 
 
-llm_instance = LLM.create(LLMProvider.OPENAI,model_name="gpt-4")
+llm_instance = LLM.create(LLMProvider.OPENAI,model_name="gpt-4o")
 
 
 available_actions = {

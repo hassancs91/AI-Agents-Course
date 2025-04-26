@@ -3,7 +3,7 @@ from SimplerLLM.tools.json_helpers import extract_json_from_text
 from actions import get_seo_page_report
 from prompt import react_system_prompt
 
-llm_instance = LLM.create(LLMProvider.OPENAI,model_name="gpt-4")
+llm_instance = LLM.create(LLMProvider.OPENAI,model_name="gpt-4o")
 
 
 available_actions = {

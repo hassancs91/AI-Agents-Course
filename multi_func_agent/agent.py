@@ -3,7 +3,7 @@ from SimplerLLM.tools.json_helpers import extract_json_from_text
 from functions import seo_audit_web_page,search_wikipedia,load_content_from_url
 from prompt import system_prompt_three_examples,system_prompt_two_examples,system_prompt_one_example
 
-llm_instance = LLM.create(LLMProvider.OPENAI,model_name="gpt-4")
+llm_instance = LLM.create(LLMProvider.OPENAI,model_name="gpt-4o")
 
 
 available_actions = {
