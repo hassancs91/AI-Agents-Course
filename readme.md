@@ -27,5 +27,20 @@ By the end of the course, you will have the skills to build AI agents that can i
 
 Ready to start building your own AI agents from scratch? [Enroll in the course today](https://learnwithhasan.com/learn/build-ai-agents/) and begin your journey into the exciting world of autonomous AI!
 
+<!-- lwh-footer -->
 
+---
 
+## 📘 The free book
+
+This course goes deep on one topic. The book is the wider map, and it is free.
+
+**[Vibe Engineering Blocks](https://learnwithhasan.com/blocks/)** is my free 74-page book.
+47 building blocks for shipping real apps with AI. One block per page, each with the exact
+prompt to hand your AI.
+
+Built by **[Hasan Aboul Hasan](https://learnwithhasan.com)**. I build real products with AI and
+write down exactly how.
+[Guides](https://learnwithhasan.com/guides/) &nbsp;·&nbsp;
+[YouTube](https://www.youtube.com/@HasanAboulHasan) &nbsp;·&nbsp;
+[Community](https://learnwithhasan.com/community/)
