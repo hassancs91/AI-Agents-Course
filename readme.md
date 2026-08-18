@@ -1,6 +1,6 @@
 # Build AI Agents From Scratch with Python
 
-Welcome to the official repository for the course [**"Build AI Agents From Scratch with Python"**](https://learnwithhasan.com/learn/build-ai-agents/), a comprehensive guide designed to empower you to create autonomous AI agents using Python and ReAct Prompting. This course is perfect for anyone passionate about AI and eager to learn how to develop intelligent agents from the ground up.
+Welcome to the official repository for the course [**"Build AI Agents From Scratch with Python"**](https://learnwithhasan.com/learn/build-ai-agents/?utm_source=github&utm_medium=readme&utm_campaign=AI-Agents-Course&utm_content=body), a comprehensive guide designed to empower you to create autonomous AI agents using Python and ReAct Prompting. This course is perfect for anyone passionate about AI and eager to learn how to develop intelligent agents from the ground up.
 
 ## About This Course
 
@@ -25,7 +25,7 @@ By the end of the course, you will have the skills to build AI agents that can i
 
 ## Enroll in the Course,  Access All Other Premium Content, and Get Support!
 
-Ready to start building your own AI agents from scratch? [Enroll in the course today](https://learnwithhasan.com/learn/build-ai-agents/) and begin your journey into the exciting world of autonomous AI!
+Ready to start building your own AI agents from scratch? [Enroll in the course today](https://learnwithhasan.com/learn/build-ai-agents/?utm_source=github&utm_medium=readme&utm_campaign=AI-Agents-Course&utm_content=body) and begin your journey into the exciting world of autonomous AI!
 
 <!-- lwh-footer -->
 
@@ -35,12 +35,12 @@ Ready to start building your own AI agents from scratch? [Enroll in the course t
 
 This course goes deep on one topic. The book is the wider map, and it is free.
 
-**[Vibe Engineering Blocks](https://learnwithhasan.com/blocks/)** is my free 74-page book.
+**[Vibe Engineering Blocks](https://learnwithhasan.com/blocks/?utm_source=github&utm_medium=readme&utm_campaign=AI-Agents-Course&utm_content=footer)** is my free 74-page book.
 47 building blocks for shipping real apps with AI. One block per page, each with the exact
 prompt to hand your AI.
 
-Built by **[Hasan Aboul Hasan](https://learnwithhasan.com)**. I build real products with AI and
+Built by **[Hasan Aboul Hasan](https://learnwithhasan.com/?utm_source=github&utm_medium=readme&utm_campaign=AI-Agents-Course&utm_content=footer)**. I build real products with AI and
 write down exactly how.
-[Guides](https://learnwithhasan.com/guides/) &nbsp;·&nbsp;
+[Guides](https://learnwithhasan.com/guides/?utm_source=github&utm_medium=readme&utm_campaign=AI-Agents-Course&utm_content=footer) &nbsp;·&nbsp;
 [YouTube](https://www.youtube.com/@HasanAboulHasan) &nbsp;·&nbsp;
-[Community](https://learnwithhasan.com/community/)
+[Community](https://learnwithhasan.com/community/?utm_source=github&utm_medium=readme&utm_campaign=AI-Agents-Course&utm_content=footer)
